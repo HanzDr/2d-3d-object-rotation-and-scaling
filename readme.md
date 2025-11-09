@@ -27,5 +27,11 @@ An educational Python project for visualizing **2D and 3D geometric transformati
 - Python 3.10 or newer
 - Dependencies:
   ```bash
-  pip install numpy matplotlib
+  Python Manager
+  ```
+- How to run the file:
+  ``` bash
+  python -m venv venv
+  venv\Scripts\activate on Windows
+  pip install -r requirements.txt
   ```
